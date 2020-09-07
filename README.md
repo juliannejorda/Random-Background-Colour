@@ -1,4 +1,5 @@
-## H2 Random-Background-Colour
+##
+Random-Background-Colour
 ------
 
 Click the button to change the background colour randomly. 
